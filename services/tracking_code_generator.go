@@ -30,7 +30,7 @@ func NewTrackingCodeGenerator(correiosApi lib.CorreiosSigepService) *TrackingCod
 	return &TrackingCodeGenerator{
 		correiosApi:         correiosApi,
 		trackingCodeRange:   [2]int{},
-		currentTrackingCode: make(chan string),
+		currentTrackingCode: make(chan string, 100),
 	}
 }
 
