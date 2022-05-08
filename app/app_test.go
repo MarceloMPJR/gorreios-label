@@ -16,7 +16,7 @@ func TestApp_Init(t *testing.T) {
 	})
 
 	t.Run("when config_path is valid should set the config with attributes of file", func(t *testing.T) {
-		err := app.Init("../fixtures/config.json")
+		err := app.Init("../fixtures/config_test.json")
 
 		expected := app.Configuration{
 			IdServico:     1,
