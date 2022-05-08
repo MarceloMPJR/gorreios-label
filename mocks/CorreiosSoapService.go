@@ -3,7 +3,7 @@
 package mocks
 
 import (
-	"github.com/MarceloMPJ/gorreios-etiqueta/lib"
+	"github.com/MarceloMPJR/gorreios-etiqueta/lib"
 
 	mock "github.com/stretchr/testify/mock"
 )

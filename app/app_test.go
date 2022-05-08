@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/MarceloMPJ/gorreios-etiqueta/app"
+	"github.com/MarceloMPJR/gorreios-etiqueta/app"
 )
 
 func TestApp_Init(t *testing.T) {

@@ -6,8 +6,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/MarceloMPJ/gorreios-etiqueta/app"
-	"github.com/MarceloMPJ/gorreios-etiqueta/lib"
+	"github.com/MarceloMPJR/gorreios-etiqueta/app"
+	"github.com/MarceloMPJR/gorreios-etiqueta/lib"
 )
 
 var (

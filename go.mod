@@ -1,4 +1,4 @@
-module github.com/MarceloMPJ/gorreios-etiqueta
+module github.com/MarceloMPJR/gorreios-etiqueta
 
 go 1.17
 

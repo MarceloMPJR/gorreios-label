@@ -4,9 +4,9 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/MarceloMPJ/gorreios-etiqueta/app"
-	"github.com/MarceloMPJ/gorreios-etiqueta/lib"
-	"github.com/MarceloMPJ/gorreios-etiqueta/services"
+	"github.com/MarceloMPJR/gorreios-etiqueta/app"
+	"github.com/MarceloMPJR/gorreios-etiqueta/lib"
+	"github.com/MarceloMPJR/gorreios-etiqueta/services"
 	"github.com/fiorix/wsdl2go/soap"
 )
 
